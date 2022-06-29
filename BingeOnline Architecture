@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2022-06-29T15:13:23.490Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="20.0.4" etag="60ue9tGzQGOqrQu9M_lJ" type="github"><diagram id="5UaYvxu0SlDVzWHTBz4K">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-29T15:30:35.260Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="vj_OejQ50v37zo_1YdBp" version="20.0.4" type="github">
+  <diagram id="5UaYvxu0SlDVzWHTBz4K" name="Page-1">
+    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MiMmtNSdZkgb7a7emoOM-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="90" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="MiMmtNSdZkgb7a7emoOM-3" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/App_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="390" y="100" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MiMmtNSdZkgb7a7emoOM-4" value="App Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="144" width="70" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="MiMmtNSdZkgb7a7emoOM-5" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/devops/Application_Insights.svg;" vertex="1" parent="1">
+          <mxGeometry x="470" y="80" width="27.94" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MiMmtNSdZkgb7a7emoOM-6" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/DNS_Zones.svg;" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MiMmtNSdZkgb7a7emoOM-7" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/CDN_Profiles.svg;" vertex="1" parent="1">
+          <mxGeometry x="610" y="60" width="68" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MiMmtNSdZkgb7a7emoOM-8" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Traffic_Manager_Profiles.svg;" vertex="1" parent="1">
+          <mxGeometry x="140" y="200" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="MiMmtNSdZkgb7a7emoOM-9" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="268" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="MiMmtNSdZkgb7a7emoOM-10" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/App_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="390" y="277" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MiMmtNSdZkgb7a7emoOM-13" value="App Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="320" width="70" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="MiMmtNSdZkgb7a7emoOM-14" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/DNS_Zones.svg;" vertex="1" parent="1">
+          <mxGeometry x="240" y="298" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MiMmtNSdZkgb7a7emoOM-15" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/DNS_Zones.svg;" vertex="1" parent="1">
+          <mxGeometry x="20" y="198.5" width="71" height="71" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
