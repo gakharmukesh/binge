@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-29T15:42:58.915Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="ip-uRE9OFw8R9aQdHmvr" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-29T15:43:52.612Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="nI9w5zP1wI05mJ_cxode" version="20.0.4" type="github">
   <diagram id="5UaYvxu0SlDVzWHTBz4K" name="Page-1">
     <mxGraphModel dx="1632" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -120,6 +120,12 @@
         </mxCell>
         <mxCell id="MiMmtNSdZkgb7a7emoOM-41" value="East ASIA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="507.94" y="320" width="82.06" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="MiMmtNSdZkgb7a7emoOM-43" value="CDN Profile EndPoint" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560.5" y="10" width="130" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="MiMmtNSdZkgb7a7emoOM-44" value="CDN Profile EndPoint" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="572" y="440" width="130" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
